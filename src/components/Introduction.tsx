@@ -39,12 +39,9 @@ export default function Introduction({ onStart }: IntroductionProps) {
             </Button>
         </div>
         
-        <InfoSection title={t('intro-brief-title')}>
-            <p>{t('intro-brief-p1')}</p>
-        </InfoSection>
-
-        <InfoSection title={t('intro-detailed-title')}>
-            <p>{t('intro-detailed-p1')}</p>
+        <InfoSection title={t('intro-title')}>
+            <p>{t('intro-p1')}</p>
+            <p>{t('intro-p2')}</p>
         </InfoSection>
 
         <InfoSection title={t('intro-problem-title')}>

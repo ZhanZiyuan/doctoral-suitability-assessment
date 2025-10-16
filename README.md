@@ -27,14 +27,13 @@ The Doctoral Suitability Assessment Scale (DSAS) is a scientific, non-diagnostic
 - **Interactive Experience**: A smooth, single-page application experience built with [Next.js](https://nextjs.org/).
 - **Rich Data Visualization**: Displays assessment results using an interactive radar chart, built with [Recharts](https://recharts.org/).
 - **Modern UI/UX**: Crafted with [Tailwind CSS](https://tailwindcss.com/) and [Shadcn UI](https://ui.shadcn.com/) for a responsive and aesthetically pleasing interface.
-- **Multi-Language Support**: Easily adaptable for different languages (currently supports English and Chinese).
+- **Multi-Language Support**: Easily adaptable for different languages (currently supports English and Simplified Chinese).
 - **Full-Stack TypeScript**: Ensures type safety and better developer experience across the entire application.
 
 ## 🛠️ Technology Stack
 
 - **Framework**: [Next.js](https://nextjs.org/) (React)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **AI**: [Google Genkit](https://firebase.google.com/docs/genkit)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **UI Components**: [Shadcn UI](https://ui.shadcn.com/), [Radix UI](https://www.radix-ui.com/)
 - **Charts**: [Recharts](https://recharts.org/)

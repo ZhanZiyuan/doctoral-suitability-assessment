@@ -33,14 +33,13 @@
 - **流畅的交互体验**: 基于 [Next.js](https://nextjs.org/) 构建的平滑单页应用体验。
 - **丰富的数据可视化**: 使用 [Recharts](https://recharts.org/) 构建的交互式雷达图来展示评估结果。
 - **现代化的 UI/UX**: 采用 [Tailwind CSS](https://tailwindcss.com/) 和 [Shadcn UI](https://ui.shadcn.com/) 精心设计，界面美观且响应迅速。
-- **多语言支持**: 可轻松适配不同语言（目前支持英文和中文）。
+- **多语言支持**: 可轻松适配不同语言（目前支持英文和简体中文）。
 - **全栈 TypeScript**: 在整个应用中确保类型安全，提升开发体验。
 
 ## 🛠️ 技术栈
 
 - **框架**: [Next.js](https://nextjs.org/) (React)
 - **语言**: [TypeScript](https://www.typescriptlang.org/)
-- **AI**: [Google Genkit](https://firebase.google.com/docs/genkit)
 - **样式**: [Tailwind CSS](https://tailwindcss.com/)
 - **UI 组件**: [Shadcn UI](https://ui.shadcn.com/), [Radix UI](https://www.radix-ui.com/)
 - **图表**: [Recharts](https://recharts.org/)
